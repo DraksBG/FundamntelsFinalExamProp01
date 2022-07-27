@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "on2M0qZVR+OR0uqhXgxeIQ4BdPeUtrckEJJ9p4a/B2+mHiMNt0V0WS8bv+BCmX9v5fK+V4HOBpFNlSVW9L828w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dimit\\source\\repos\\FundamentalsExamPrep\\03The Pianist\\03The Pianist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

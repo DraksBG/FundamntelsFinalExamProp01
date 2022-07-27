@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDErtzyMju5hKo/ZEtKtU3gg23DlDwyjIrsAMht1DrY5tVXUIOmaEl8K6OVHdOzW/dlQFA2UkrVEPho15NvxDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dimit\\source\\repos\\FundamentalsExamPrep\\01. Secret Chat\\01. Secret Chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

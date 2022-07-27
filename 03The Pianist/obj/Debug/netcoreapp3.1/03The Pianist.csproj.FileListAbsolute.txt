@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\bin\Debug\netcoreapp3.1\03The Pianist.exe
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\bin\Debug\netcoreapp3.1\03The Pianist.deps.json
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\bin\Debug\netcoreapp3.1\03The Pianist.runtimeconfig.json
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\bin\Debug\netcoreapp3.1\03The Pianist.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\bin\Debug\netcoreapp3.1\03The Pianist.dll
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\bin\Debug\netcoreapp3.1\03The Pianist.pdb
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\obj\Debug\netcoreapp3.1\03The Pianist.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\obj\Debug\netcoreapp3.1\03The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\obj\Debug\netcoreapp3.1\03The Pianist.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\obj\Debug\netcoreapp3.1\03The Pianist.AssemblyInfo.cs
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\obj\Debug\netcoreapp3.1\03The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\obj\Debug\netcoreapp3.1\03The Pianist.dll
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\obj\Debug\netcoreapp3.1\03The Pianist.pdb
+C:\Users\dimit\source\repos\FundamentalsExamPrep\03The Pianist\obj\Debug\netcoreapp3.1\03The Pianist.genruntimeconfig.cache
